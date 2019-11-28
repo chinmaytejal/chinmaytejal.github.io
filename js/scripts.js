@@ -160,7 +160,7 @@ $(document).ready(function () {
             address: 'Mumbai',
 
             // Event Description
-            description: "We can't wait to see you on our big day. For any queries or issues contact Mr. Vijay Rane at +91 9869429677."
+            description: "We can't wait to see you on our big day. For any queries or issues contact Mr. Vijay Rane at +91 9869611991."
         }
     });
 
